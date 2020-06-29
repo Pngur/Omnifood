@@ -1,3 +1,3 @@
-# FunBox Technical Task 
-## Preview
+#  Omnifood
+## designed by jonas schmedtmann
 ![Image](https://i.ibb.co/M9vmQnX/omnifoods.png);
